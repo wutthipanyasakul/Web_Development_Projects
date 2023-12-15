@@ -1,4 +1,4 @@
-//Project 8 Whale Talk
+//Project 9 Whale Talk
 
 //Take a phrase like ‘turpentine and turtles’ 
 //and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’.
